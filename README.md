@@ -1,0 +1,2 @@
+# 1005_GCD_Captone_Project
+ In this project, we are trying to understand the pattern of **employee attrition ** in the company, what are the possible reasons for an employees to leave the company. We are building a Classification Model to support our HR team which will predict whether the employee will leave or stay with the company, this will help HR to take preventive action to reduce attrition.
